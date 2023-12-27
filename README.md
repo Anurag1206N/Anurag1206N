@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anurag1206N
 - 👀 I’m interested in growing
-- 🌱 I’m currently learning dsa in c++, mern stack web development.
+- 🌱 I’m currently learning dsa in Java,dsa and mern stack web development.
 - 💞️ I’m looking to collaborate on any project which is going to teach me something.
 - 📫 my linkedin id link: https://www.linkedin.com/in/anurag-chaturbedy-6a8582253
 
